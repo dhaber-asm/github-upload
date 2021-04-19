@@ -1,0 +1,53 @@
+
+Pulls
+Issues
+Marketplace
+Explore
+@dhaber-asm
+github /
+gitignore
+
+3.2k
+117k
+
+    64.2k
+
+Code
+Pull requests 311
+Actions
+Projects
+Security
+
+    Insights
+
+gitignore/Go.gitignore
+@mahmud2011
+mahmud2011 ignore vendor directory (#3033)
+Latest commit 5c5a1b5 on May 5, 2019
+History
+9 contributors
+@AlekSi
+@MichalisK
+@mahmud2011
+@tchajed
+@mxschmitt
+@matthew-gerstman
+@titanous
+@cskau
+@bndw
+15 lines (12 sloc) 269 Bytes
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
